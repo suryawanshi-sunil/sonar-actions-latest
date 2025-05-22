@@ -6,6 +6,7 @@ public class App {
         int unusedVar1=100;
         int NewUnusedVar1=100;
         int NewUnusedVar2=100;
+        int NewUnusedVar3=1000;
         
         System.out.println("Hello, SonarQube!");
     }
