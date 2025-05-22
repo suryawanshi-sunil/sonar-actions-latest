@@ -1,1 +1,2 @@
 # sonar-actions-latest
+test
