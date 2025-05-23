@@ -2,8 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        int unusedVar=10;
-        int unusedVar1=100;
         int NewUnusedVar1=100;
         int NewUnusedVar2=100;
                 
