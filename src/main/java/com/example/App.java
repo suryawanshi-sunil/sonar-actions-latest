@@ -3,6 +3,8 @@ package com.example;
 public class App {
     public static void main(String[] args) {
         int unusedVar; // declared but never used
+        int unusedVar1; // declared but never used
+        
     }
     // Sample code issue: method not used
     private static void unusedMethod() {
